@@ -1,7 +1,0 @@
-{
-    "projectName": "SmartContracts",
-    "namespace": "SmartContracts.Contracts",
-    "lang": 0,
-    "autoCodeGen": true,
-    "projectPath": "../"
-}
