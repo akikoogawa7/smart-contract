@@ -1,7 +1,7 @@
-pragma solidity >=0.8.10;
+pragma solidity >=0.5.1;
 
 contract Counter {
-    uint count = 0;
+    uint public count = 0;
 
     event Increment(uint value);
     event Decrement(uint value);
