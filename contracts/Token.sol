@@ -17,4 +17,8 @@ contract Token {
         totalSupply = _totalSupply;
         balanceOf[msg.sender] = totalSupply;
     }
+
+    function transfer(address _to, uint256 _value) external returns (bool success) {
+
+    }
 }
